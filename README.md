@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ibrahim
 
-- 🛠️ I'm a 12 year old kid / Developer passionate about building meaningful projects.
+- 🛠️ I'm a 13 year old kid / Developer passionate about building meaningful projects.
 - 🌱 I’m currently exploring Python and JavaScript
 - 👯 I’m looking to collaborate on interesting Python, JS, or AI projects.
 - 💬 Feel free to connect to me on discord user: ibrahimzzz
